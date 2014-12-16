@@ -1,0 +1,6 @@
+c:\users\gussand\documents\visual studio 2013\Projects\WindowsTimeZoneToTzidMapper\WindowsTimeZoneToTzidMapper\bin\Debug\WindowsTimeZoneToTzidMapper.exe.config
+c:\users\gussand\documents\visual studio 2013\Projects\WindowsTimeZoneToTzidMapper\WindowsTimeZoneToTzidMapper\obj\Debug\WindowsTimeZoneToTzidMapper.csprojResolveAssemblyReference.cache
+c:\users\gussand\documents\visual studio 2013\Projects\WindowsTimeZoneToTzidMapper\WindowsTimeZoneToTzidMapper\bin\Debug\WindowsTimeZoneToTzidMapper.exe
+c:\users\gussand\documents\visual studio 2013\Projects\WindowsTimeZoneToTzidMapper\WindowsTimeZoneToTzidMapper\bin\Debug\WindowsTimeZoneToTzidMapper.pdb
+c:\users\gussand\documents\visual studio 2013\Projects\WindowsTimeZoneToTzidMapper\WindowsTimeZoneToTzidMapper\obj\Debug\WindowsTimeZoneToTzidMapper.exe
+c:\users\gussand\documents\visual studio 2013\Projects\WindowsTimeZoneToTzidMapper\WindowsTimeZoneToTzidMapper\obj\Debug\WindowsTimeZoneToTzidMapper.pdb
